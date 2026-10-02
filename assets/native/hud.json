@@ -1,0 +1,9 @@
+{
+  "source":"Original PC COMMON HUD bitmaps and RAB map extents. Native 640x480 placement follows supplied original PS1 composition; platform-specific equivalence unverified.",
+  "map_bitmap":"IGD_MAP.BMP",
+  "map_rect":[525.0,355.0,90.0,90.0],
+  "power_rect":[40.0,350.0,55.0,55.0],
+  "power_icons":[["cannon","grapple","wand","rocket"],["shld1","shld2","shld3","shld4"],["octan1","octan2","octan3","octan4"],["oilcan","barrel","magnet","curse"]],
+  "racer_colors":[[255,255,255],[255,20,20],[30,100,255],[255,220,0],[180,40,230],[0,220,30]],
+  "dot_radius":2.2
+}

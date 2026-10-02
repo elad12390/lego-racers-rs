@@ -1,0 +1,17 @@
+{
+  "source": "Original COMMON PCM audio; native mixing and discrete engine pitch interpolation provisional, not audible/original-mixer acceptance.",
+  "engine_file": "ENGINE.PCM",
+  "idle_file": "IDLE.PCM",
+  "skid_file": "SKID.PCM",
+  "effect_files": [["CANSHT.PCM","GRPSHT.PCM","WNDSUS1.PCM","ROCKSHT.PCM"],["SHIELD0.PCM","SHIELD1.PCM","SHIELD2.PCM","SHIELD3.PCM"],["TURBO.PCM","TURBO.PCM","TURBO.PCM","FORM.PCM"],["OILDRP.PCM","GPWDRDRP.PCM","MDROP.PCM","CURSESUS.PCM"]],
+  "pickup_file":"POWER.PCM",
+  "white_files":["ENHAN01.PCM","ENHAN02.PCM","ENHAN03.PCM"],
+  "engine_pitch_steps":12,
+  "engine_pitch_min":0.65,
+  "engine_pitch_max":1.65,
+  "engine_gain":0.22,
+  "idle_gain":0.16,
+  "skid_gain":0.14,
+  "effect_gain":0.5,
+  "reference_speed":176.0
+}

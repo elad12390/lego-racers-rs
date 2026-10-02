@@ -1,0 +1,20 @@
+[package]
+name = "lrsim"
+description = "Driving simulation for the LEGO Racers port"
+edition.workspace = true
+version.workspace = true
+license.workspace = true
+
+[dependencies]
+lrformats = { path = "../lrformats" }
+png = "0.17"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+[[bin]]
+name = "lrdrive"
+path = "src/bin/lrdrive.rs"
+
+[[bin]]
+name = "lrroute"
+path = "src/bin/lrroute.rs"

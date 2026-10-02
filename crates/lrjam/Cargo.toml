@@ -1,0 +1,13 @@
+[package]
+name = "lrjam"
+description = "Reader for the LEGO Racers LEGO.JAM archive"
+edition.workspace = true
+version.workspace = true
+license.workspace = true
+
+[lib]
+path = "src/lib.rs"
+
+[[bin]]
+name = "jam"
+path = "src/main.rs"

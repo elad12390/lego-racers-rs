@@ -1,0 +1,13 @@
+{
+  "source":"Original LPIECELO geometry/footprints and original palette. Native editor placement constraints are provisional until original-builder comparison.",
+  "database":"LPIECELO.LEB",
+  "materials":"LPIECELO.MDB",
+  "default_chassis":"KKCHAS0",
+  "max_parts":80,
+  "max_height":31,
+  "vertical_step":0.4,
+  "geometry_scale":1.0,
+  "preview_ambient":0.6,
+  "preview_light":[0.3,-0.4,0.8660254],
+  "colors":["black","white","biege","ltgray","dkgray","red","blue","yellow","green","brown"]
+}

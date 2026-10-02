@@ -1,0 +1,23 @@
+{
+  "source": "PWB placements; Racer_StartRaceEffects00439100; Racer_AddPickup00439420; RacerEffectLauncher00457710; TurboEffect0045d200; shield0045bd30. Physical interaction tuning is provisional until post-implementation acceptance.",
+  "pickup_radius": 10.0,
+  "rotation_radians_per_second": 4.0,
+  "swap_delay_ms": 251,
+  "spawn_fade_ms": 501,
+  "turbo_duration_ms": [1000,1500,5000],
+  "turbo_speed_limit": 176.0,
+  "turbo_force_scale": 1.5,
+  "turbo_route_speed": 1.7,
+  "shield_duration_ms": [4000,6000,8000,10000],
+  "projectile_speed": 300.0,
+  "projectile_lifetime_ms": 3000,
+  "hit_radius": 8.0,
+  "hit_delay_ms": 1000,
+  "hazard_lifetime_ms": 10000,
+  "warp_prepare_ms": 500,
+  "warp_transit_ms": 1500,
+  "warp_route_speed":4.5,
+  "weapons":{"range":400.0,"cannon_cone":0.95,"grapple_cone":0.93,"lightning_cone":0.6,"launch_distance":12.0,"launch_height":3.5,"spread":0.08,"grapple_ms":1500,"grapple_pull_speed":200.0,"oil_ms":1500,"curse_ms":4000,"mine_radius":30.0,"mine_arm_ms":500,"lightning_flash_ms":350,"hit_drag_per_second":2.4,"curse_speed_scale":0.5},
+  "models": {"pickup":"pubricky","white":"enhabrik","missile":"dmissile","cannon":"hedra01","grapple":"grapple","barrel":"barrel","mine":"magnet04","curse":"curse","beam":"magbem06","tether":"dtube","oil":"OILSLK64.BMP","shield":["sheout0","sheout1","sheout2","sheout3"],"warp":"warphole","turbo":["dt0burn","dt1burn","dt2cburn"]},
+  "labels": [["Cannon","Grapple","Lightning","Triple Missile"],["Shield","Shield II","Shield III","Reflecting Shield"],["Turbo","Turbo II","Turbo III","Warp"],["Oil Slick","Barrel","Magnetic Mine","Curse"]]
+}

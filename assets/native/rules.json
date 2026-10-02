@@ -1,0 +1,14 @@
+{
+  "source": "Original Scoreboard::AddAward004402c0, Award_Points004b0b58; race names from LEGORACE.RCB text IDs",
+  "finish_points": [30, 20, 10, 3, 2, 1],
+  "track_names": {
+    "igp": "Imperial Grand Prix", "dfd": "Dark Forest Dash",
+    "mmm": "Magma Moon Marathon", "dad": "Desert Adventure Dragway",
+    "tit": "Tribal Island Trail", "rkr": "Royal Knights Raceway",
+    "ipp": "Ice Planet Pathway", "ama": "Amazon Adventure Alley",
+    "frk": "Fright Knights Folly", "psp": "Pirate Skull Pass",
+    "att": "Adventure Temple Trail", "aar": "Alien Rally Asteroid",
+    "rr": "Rocket Racer Run", "test": "Original Test Track"
+  },
+  "circuit_names": ["Captain Redbeard", "King Kahuka", "Basil the Bat Lord", "Johnny Thunder", "Baron von Barron", "Gypsy Moth", "Rocket Racer"]
+}
