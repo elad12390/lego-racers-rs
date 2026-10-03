@@ -1,0 +1,8 @@
+# Prettier-like layout for Rust, using Rust's syntax-aware formatter.
+edition = "2021"
+tab_spaces = 2
+max_width = 100
+newline_style = "Unix"
+use_small_heuristics = "Default"
+reorder_imports = true
+reorder_modules = true

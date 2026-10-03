@@ -13,5 +13,12 @@
   "idle_gain":0.16,
   "skid_gain":0.14,
   "effect_gain":0.5,
-  "reference_speed":176.0
+  "reference_speed":176.0,
+  "menu_music_file":"theme.tun",
+  "builder_music_file":"builder.tun",
+  "menu_move_file":"HILIGHT1.PCM",
+  "menu_activate_file":"ACTIVATE.PCM",
+  "menu_cancel_file":"BACKUP.PCM",
+  "menu_music_gain":0.45,
+  "menu_sfx_gain":0.6
 }

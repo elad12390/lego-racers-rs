@@ -3,6 +3,7 @@
 !/.gitignore
 !/Cargo.toml
 !/Cargo.lock
+!/rustfmt.toml
 !/README.md
 !/LICENSE
 !/crates/
@@ -22,6 +23,9 @@
 !/assets/native/hud.json
 !/assets/native/powerups.json
 !/assets/native/rules.json
+!/assets/shaders/
+/assets/shaders/*
+!/assets/shaders/original_surface.wgsl
 
 # Additional protection for binaries, originals, personal files and secrets.
 *.iso

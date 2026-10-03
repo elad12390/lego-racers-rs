@@ -8,7 +8,8 @@ license.workspace = true
 [dependencies]
 lrformats = { path = "../lrformats" }
 lrsim = { path = "../lrsim" }
-macroquad = { version = "=0.4.14", features = ["audio"] }
+bevy = { version = "=0.19.0", default-features = false, features = ["std", "async_executor", "multi_threaded", "bevy_asset", "bevy_log", "bevy_winit", "bevy_window", "bevy_render", "bevy_camera", "bevy_mesh", "bevy_image", "bevy_shader", "bevy_material", "bevy_core_pipeline", "bevy_pbr", "bevy_sprite", "bevy_sprite_render", "bevy_text", "default_font", "bevy_audio", "wav", "png"] }
+fontdue = "0.9"
 png = "0.17"
 serde = { version = "1", features = ["derive"] }
 serde_json = { version = "1", features = ["float_roundtrip"] }
